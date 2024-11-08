@@ -62,7 +62,7 @@ export const myProjects = [
     desc: 'A React-based mind mapping tool that enables users to create, edit, and organize nodes in a visual, graph-like structure. Features include node creation, deletion, content editing, color customization, search, drag-and-drop, and canvas zooming/panning. Ideal for brainstorming and project planning, it offers a dynamic and intuitive visual organization experience.',
     subdesc:
       '',
-    href: 'https://react-mind-map-creator.pages.dev/',
+    href: 'https://ritaban06.github.io/react-mind-map-creator/',
     texture: '/textures/project/project6.mp4',
     logo: '/assets/one.svg',
     logoStyle: {
