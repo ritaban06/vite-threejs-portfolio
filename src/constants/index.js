@@ -108,10 +108,10 @@ export const myProjects = [
   },
   {
     title: 'Recipe Sharing Platform',
-    desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
+    desc: 'This global cookbook website offers a diverse array of recipes from various cuisines, allowing users to explore dishes worldwide. Registered users can log in to submit and share their own recipes, contributing to the platform’s expanding culinary collection.',
     subdesc:
-      'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-    href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+      '',
+    href: 'http://cook-book-b9e75.firebaseapp.com/',
     texture: '/textures/project/project6.mp4',
     logo: '/assets/three.svg',
     logoStyle: {
@@ -135,13 +135,8 @@ export const myProjects = [
       },
       {
         id: 3,
-        name: 'TypeScript',
-        path: '/assets/typescript.png',
-      },
-      {
-        id: 4,
-        name: 'Framer Motion',
-        path: '/assets/framer.png',
+        name: 'Javascript',
+        path: '/assets/javascript.png',
       },
     ],
   },
